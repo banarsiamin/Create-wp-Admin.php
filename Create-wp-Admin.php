@@ -18,7 +18,7 @@ require_once('wp-includes/registration.php');
 // Make sure that you set these before running the file.
 $newusername = 'admin';
 $newpassword = 'Test321$';
-$newemail 	 = 'pradeep@ibrinfotech.com';
+$newemail 	 = 'reportibr@gmail.com';
 // ----------------------------------------------------
 
 // This is just a security precaution, to make sure the above "Config Variables" 
